@@ -12,10 +12,10 @@ Done in the cpp file contained with this sketch
 
 Eric originally followed this tutorial here for the YouTube API info etc: http://www.joeybabcock.me/blog/projects/arduino-esp8266-live-subscriber-display/
 
-###Get your YouTube API Key:
+### Get your YouTube API Key:
 https://console.developers.google.com/
 
-###Get Your YouTube Channel URL Here:
+### Get Your YouTube Channel URL Here:
 https://www.youtube.com/account_advanced
 
 ### 3D printed case from Thingiverse:
@@ -35,12 +35,13 @@ It should be wired as followes
 | CLK   | D5 |
 
 
-Support my projects by picking up the display/board here:
+### Support my projects by picking up the display/board here:
 
 Wemos D1: https://amzn.to/2ACRWRA
 
 LED Matrix: https://amzn.to/2McsuUl
 
+### More Projects and Videos!
 My Youtube Channel  : http://www.youtube.com/mkmeorg
 
 My website   : http://www.mkme.org
