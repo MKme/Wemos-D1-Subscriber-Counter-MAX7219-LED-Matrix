@@ -24,8 +24,6 @@ https://www.thingiverse.com/thing:2988071
 
 ### Wiring For WEMOS D1 Mini
 
-It should be wired as followes
-
 | Pin On 7219| Pin on Wemos D1 Mini |
 | ------------- |----------------|
 | GND     | G |
