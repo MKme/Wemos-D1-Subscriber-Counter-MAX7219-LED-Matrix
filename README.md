@@ -24,8 +24,11 @@ It should be wired as followed
 
 
 Support my projects by picking up the display/board here:
+
 Wemos D1: https://amzn.to/2ACRWRA
+
 LED Matrix: https://amzn.to/2McsuUl
 
 My Youtube Channel  : http://www.youtube.com/mkmeorg
+
 My website   : http://www.mkme.org
