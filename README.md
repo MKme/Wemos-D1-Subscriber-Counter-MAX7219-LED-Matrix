@@ -12,6 +12,14 @@ Done in the cpp file contained with this sketch
 
 Eric originally followed this tutorial here for the YouTube API info etc: http://www.joeybabcock.me/blog/projects/arduino-esp8266-live-subscriber-display/
 
+###Get your YouTube API Key:
+https://console.developers.google.com/
+
+###Get Your YouTube Channel URL Here:
+https://www.youtube.com/account_advanced
+
+### 3D printed case from Thingiverse:
+https://www.thingiverse.com/thing:2988071
 
 
 ### Wiring For WEMOS D1 Mini
