@@ -1,4 +1,4 @@
-# Wemos-D1-Subscriber-Counter-MAX7216-LED-Matrix
+# Wemos-D1-Subscriber-Counter-MAX7219-LED-Matrix
 Simple Subscriber counter display using WEMOS D1 Mini and MAX7219 LED Matrix for scrolling text
 
 Erics Wemos D1 Mini displaying YouTube Subscriber Count with MAX7219 LED Matrix Displays
