@@ -12,6 +12,11 @@ Done in the cpp file contained with this sketch
 
 Eric originally followed this tutorial here for the YouTube API info etc: http://www.joeybabcock.me/blog/projects/arduino-esp8266-live-subscriber-display/
 
+Ensure you use the correct JSON Library:
+Go to Sketch,  Include Library, Manage library.
+Search for ArduinoJson
+Click Select Version. Choose 5.13.4
+
 ### Get your YouTube API Key:
 https://console.developers.google.com/
 
